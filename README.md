@@ -6,4 +6,4 @@ My name is Merit Karl Virador 22 years old, lives in Garcia-Hernandez
 ## sample code
 printf("hello world!");
 ## How to install
-Step 1: download the zip file or use git code
+- Step 1: download the zip file or use git code
