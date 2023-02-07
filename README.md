@@ -8,4 +8,5 @@ printf("hello world!");
 ## How to install
 - Step 1: download the zip file or use git code
 first commit 
-
+Second commit
+new first commit
